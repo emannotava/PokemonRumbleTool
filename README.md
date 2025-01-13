@@ -8,7 +8,13 @@ LZH8_CmpDec - http://hcs64.com/vgm_ripping.html
 
 wwPacker - https://gbatemp.net/download/wwpacker.36649/
 
-# Usage
-Before using, you will need to edit the file and change the paths for each tool.  
+Python 3.12 - https://www.python.org/downloads/
 
-Drag and drop either a Pokemon Rumble WAD file (Unpacking) or a folder containing the contents of a script.arc.cx file (Packing).
+PKC Decoder - Search for script.py in the Pokemon Rumble Series Discord server (https://discord.com/invite/Estkt3f).
+
+# Usage
+Before using, you will need to edit the file and change the paths for each tool.
+
+Packing & Decoding - Drag and drop a folder containing the contents of a script.arc.cx file.
+
+Unpacking - Drag and drop a Pokemon Rumble WAD file.
