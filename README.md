@@ -10,7 +10,7 @@ wwPacker - https://gbatemp.net/download/wwpacker.36649/
 
 Python 3.12 - https://www.python.org/downloads/
 
-PKC Decoder - Search for script.py in the Pokemon Rumble Series Discord server (https://discord.com/invite/Estkt3f).
+PKC Decoder (Credits to mv) - Search for script.py in the Pokemon Rumble Series Discord server (https://discord.com/invite/Estkt3f).
 
 # Usage
 Before using, you will need to edit the file and change the paths for each tool.
